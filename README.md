@@ -7,7 +7,7 @@ The notebook `minst.ipynb` creates two augmented views per image, trains an enco
 
 ## 📂 Contents
 - `minst.ipynb` — main notebook: dataset, encoder, training, visualization  
-- (optional) saved models / outputs  
+- dataset link : [dataset](https://www.kaggle.com/datasets/gennadiimanzhos/medical-mnist-train-test-val)
 
 ---
 
